@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mp3/ga-click-event/issues"
   },
-  "homepage": "https://github.com/mp3/ga-click-event#readme"
+  "homepage": "https://github.com/mp3/ga-click-event#readme",
+  "devDependencies": {
+    "typescript": "^2.8.3"
+  }
 }
