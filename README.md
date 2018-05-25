@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/ga-click-event.svg)](https://badge.fury.io/js/ga-click-event)
+
 ## Installation
 
 ```
